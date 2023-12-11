@@ -9,11 +9,11 @@ The assignment entails the creation of two types of smart contracts using the Re
 
 # Implementation
 Source code for part 1.1 - Part1.1/contracts/Escrow.sol
-  Aim: Between two wallets, set an escrow system where Alice sends 0.001 Eth to the contract and the second party (Bob) can withdraw after 1 day of time.
+  Aim: Between two wallets, set an escrow system where Alice sends 0.001 Eth to the contract and the second party (Bob) can withdraw after 1 day of time.<br>
   Contract Address: 0x39d3FD0D3416b4b61F5aA5596Ce477eDa845b2D2
 
 Source code for part 1.2 - Part1.2/contracts/SimpleERC20.sol
-  Aim: Creation of a custom ERC20 token, mint 100 tokens, then finally transder to a given wallet address.
+  Aim: Creation of a custom ERC20 token, mint 100 tokens, then finally transfer to a given wallet address.<br>
   Token Name: "NYUDEV"
   Token Symbol: "NYUD"
   Transaction: 1000 NYUD tokens minted to the deployer's address.
