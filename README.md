@@ -7,6 +7,6 @@ The assignment entails the creation of two types of smart contracts using the Re
   2. Simple ERC20 Token: The task involves creating an ERC20 token named "NYUDEV" with the symbol "NYUD", which is minted and sent to the deployer's address.
 
 # Implementation
-For part 1.1 - Escrow.sol
+Source code for part 1.1 - Part1.1/contracts/Escrow.sol
 
-For part 1.2 - NyuD.sol
+Source code for part 1.2 - Part1.2/contracts/SimpleERC20.sol
